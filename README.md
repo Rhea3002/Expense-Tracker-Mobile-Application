@@ -7,4 +7,5 @@ Built a cross-platform finance tracker app for managing income, expenses, and bu
 
 <img width="652" height="370" alt="use case diagram" src="https://github.com/user-attachments/assets/f6776951-0ec6-4430-8ad3-062b67597f59" />
 
-Find the complete project details in the pdf attached.
+##### Featured in BITMAP 4.0
+![BITMAP](https://github.com/user-attachments/assets/39f55ca3-8f4e-46c1-bb16-26a043aa048b)
